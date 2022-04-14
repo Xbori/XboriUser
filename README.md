@@ -1,6 +1,6 @@
 
 
-## • Termux-da Necə Quraşdırılır və İstifadə Edilir
+## • Termux-da Necə Quraşdırılır və İstifadə Edilir PUL VERMEDEN EKENIN QEYRETI YOXDU
 
 `$ pkg up -y`
 
